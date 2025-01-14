@@ -1,0 +1,421 @@
+,index,celltype,inter
+0,#B16BA8,#B16BA8,27
+1,#F39426,#B16BA8,56
+2,B cells Memory,#B16BA8,6
+3,CAFs MSC iCAF-like,#B16BA8,38
+4,CAFs myCAF-like,#B16BA8,42
+5,Cycling PVL,#B16BA8,22
+6,Cycling T-cells,#B16BA8,30
+7,Cycling_Myeloid,#B16BA8,33
+8,DCs,#B16BA8,23
+9,Endothelial ACKR1,#B16BA8,57
+10,Endothelial CXCL12,#B16BA8,63
+11,Endothelial RGS5,#B16BA8,65
+12,Luminal Progenitors,#B16BA8,45
+13,Macrophage,#B16BA8,40
+14,Monocyte,#B16BA8,25
+15,NK cells,#B16BA8,11
+16,NKT cells,#B16BA8,15
+17,PVL Differentiated,#B16BA8,35
+18,PVL Immature,#B16BA8,24
+19,T cells CD4+,#B16BA8,13
+20,T cells CD8+,#B16BA8,13
+21,#B16BA8,#B16BA8,27
+22,#F39426,#B16BA8,48
+23,B cells Memory,#B16BA8,6
+24,CAFs MSC iCAF-like,#B16BA8,38
+25,CAFs myCAF-like,#B16BA8,42
+26,Cycling PVL,#B16BA8,21
+27,Cycling T-cells,#B16BA8,32
+28,Cycling_Myeloid,#B16BA8,34
+29,DCs,#B16BA8,23
+30,Endothelial ACKR1,#B16BA8,59
+31,Endothelial CXCL12,#B16BA8,62
+32,Endothelial RGS5,#B16BA8,67
+33,Luminal Progenitors,#B16BA8,45
+34,Macrophage,#B16BA8,40
+35,Monocyte,#B16BA8,25
+36,NK cells,#B16BA8,9
+37,NKT cells,#B16BA8,17
+38,PVL Differentiated,#B16BA8,35
+39,PVL Immature,#B16BA8,23
+40,T cells CD4+,#B16BA8,13
+41,T cells CD8+,#B16BA8,13
+42,#B16BA8,#B16BA8,27
+43,#F39426,#B16BA8,49
+44,B cells Memory,#B16BA8,6
+45,CAFs MSC iCAF-like,#B16BA8,37
+46,CAFs myCAF-like,#B16BA8,42
+47,Cycling PVL,#B16BA8,17
+48,Cycling T-cells,#B16BA8,31
+49,Cycling_Myeloid,#B16BA8,33
+50,DCs,#B16BA8,23
+51,Endothelial ACKR1,#B16BA8,57
+52,Endothelial CXCL12,#B16BA8,62
+53,Endothelial RGS5,#B16BA8,67
+54,Luminal Progenitors,#B16BA8,45
+55,Macrophage,#B16BA8,40
+56,Monocyte,#B16BA8,25
+57,NK cells,#B16BA8,9
+58,NKT cells,#B16BA8,16
+59,PVL Differentiated,#B16BA8,35
+60,PVL Immature,#B16BA8,24
+61,T cells CD4+,#B16BA8,13
+62,T cells CD8+,#B16BA8,13
+63,#B16BA8,#B16BA8,27
+64,#F39426,#B16BA8,52
+65,B cells Memory,#B16BA8,6
+66,CAFs MSC iCAF-like,#B16BA8,38
+67,CAFs myCAF-like,#B16BA8,42
+68,Cycling PVL,#B16BA8,20
+69,Cycling T-cells,#B16BA8,30
+70,Cycling_Myeloid,#B16BA8,33
+71,DCs,#B16BA8,22
+72,Endothelial ACKR1,#B16BA8,59
+73,Endothelial CXCL12,#B16BA8,63
+74,Endothelial RGS5,#B16BA8,67
+75,Luminal Progenitors,#B16BA8,47
+76,Macrophage,#B16BA8,40
+77,Monocyte,#B16BA8,24
+78,NK cells,#B16BA8,11
+79,NKT cells,#B16BA8,17
+80,PVL Differentiated,#B16BA8,35
+81,PVL Immature,#B16BA8,23
+82,T cells CD4+,#B16BA8,13
+83,T cells CD8+,#B16BA8,13
+84,#B16BA8,#B16BA8,27
+85,#F39426,#B16BA8,55
+86,B cells Memory,#B16BA8,6
+87,CAFs MSC iCAF-like,#B16BA8,37
+88,CAFs myCAF-like,#B16BA8,42
+89,Cycling PVL,#B16BA8,20
+90,Cycling T-cells,#B16BA8,31
+91,Cycling_Myeloid,#B16BA8,33
+92,DCs,#B16BA8,24
+93,Endothelial ACKR1,#B16BA8,59
+94,Endothelial CXCL12,#B16BA8,62
+95,Endothelial RGS5,#B16BA8,66
+96,Luminal Progenitors,#B16BA8,46
+97,Macrophage,#B16BA8,40
+98,Monocyte,#B16BA8,25
+99,NK cells,#B16BA8,10
+100,NKT cells,#B16BA8,15
+101,PVL Differentiated,#B16BA8,35
+102,PVL Immature,#B16BA8,23
+103,T cells CD4+,#B16BA8,13
+104,T cells CD8+,#B16BA8,13
+105,#B16BA8,#B16BA8,27
+106,#F39426,#B16BA8,49
+107,B cells Memory,#B16BA8,6
+108,CAFs MSC iCAF-like,#B16BA8,37
+109,CAFs myCAF-like,#B16BA8,42
+110,Cycling PVL,#B16BA8,23
+111,Cycling T-cells,#B16BA8,31
+112,Cycling_Myeloid,#B16BA8,33
+113,DCs,#B16BA8,22
+114,Endothelial ACKR1,#B16BA8,57
+115,Endothelial CXCL12,#B16BA8,62
+116,Endothelial RGS5,#B16BA8,66
+117,Luminal Progenitors,#B16BA8,44
+118,Macrophage,#B16BA8,40
+119,Monocyte,#B16BA8,25
+120,NK cells,#B16BA8,9
+121,NKT cells,#B16BA8,17
+122,PVL Differentiated,#B16BA8,35
+123,PVL Immature,#B16BA8,23
+124,T cells CD4+,#B16BA8,13
+125,T cells CD8+,#B16BA8,13
+126,#B16BA8,#B16BA8,27
+127,#F39426,#B16BA8,54
+128,B cells Memory,#B16BA8,6
+129,CAFs MSC iCAF-like,#B16BA8,37
+130,CAFs myCAF-like,#B16BA8,42
+131,Cycling PVL,#B16BA8,22
+132,Cycling T-cells,#B16BA8,31
+133,Cycling_Myeloid,#B16BA8,32
+134,DCs,#B16BA8,24
+135,Endothelial ACKR1,#B16BA8,58
+136,Endothelial CXCL12,#B16BA8,61
+137,Endothelial RGS5,#B16BA8,67
+138,Luminal Progenitors,#B16BA8,47
+139,Macrophage,#B16BA8,40
+140,Monocyte,#B16BA8,25
+141,NK cells,#B16BA8,11
+142,NKT cells,#B16BA8,17
+143,PVL Differentiated,#B16BA8,35
+144,PVL Immature,#B16BA8,24
+145,T cells CD4+,#B16BA8,13
+146,T cells CD8+,#B16BA8,13
+147,#B16BA8,#B16BA8,27
+148,#F39426,#B16BA8,55
+149,B cells Memory,#B16BA8,6
+150,CAFs MSC iCAF-like,#B16BA8,38
+151,CAFs myCAF-like,#B16BA8,42
+152,Cycling PVL,#B16BA8,20
+153,Cycling T-cells,#B16BA8,29
+154,Cycling_Myeloid,#B16BA8,32
+155,DCs,#B16BA8,23
+156,Endothelial ACKR1,#B16BA8,59
+157,Endothelial CXCL12,#B16BA8,62
+158,Endothelial RGS5,#B16BA8,67
+159,Luminal Progenitors,#B16BA8,43
+160,Macrophage,#B16BA8,40
+161,Monocyte,#B16BA8,24
+162,NK cells,#B16BA8,11
+163,NKT cells,#B16BA8,17
+164,PVL Differentiated,#B16BA8,35
+165,PVL Immature,#B16BA8,24
+166,T cells CD4+,#B16BA8,13
+167,T cells CD8+,#B16BA8,13
+168,#B16BA8,#B16BA8,27
+169,#F39426,#B16BA8,53
+170,B cells Memory,#B16BA8,7
+171,CAFs MSC iCAF-like,#B16BA8,37
+172,CAFs myCAF-like,#B16BA8,42
+173,Cycling PVL,#B16BA8,21
+174,Cycling T-cells,#B16BA8,30
+175,Cycling_Myeloid,#B16BA8,33
+176,DCs,#B16BA8,24
+177,Endothelial ACKR1,#B16BA8,58
+178,Endothelial CXCL12,#B16BA8,62
+179,Endothelial RGS5,#B16BA8,66
+180,Luminal Progenitors,#B16BA8,47
+181,Macrophage,#B16BA8,40
+182,Monocyte,#B16BA8,24
+183,NK cells,#B16BA8,10
+184,NKT cells,#B16BA8,15
+185,PVL Differentiated,#B16BA8,33
+186,PVL Immature,#B16BA8,25
+187,T cells CD4+,#B16BA8,13
+188,T cells CD8+,#B16BA8,13
+189,#B16BA8,#B16BA8,27
+190,#F39426,#B16BA8,51
+191,B cells Memory,#B16BA8,6
+192,CAFs MSC iCAF-like,#B16BA8,37
+193,CAFs myCAF-like,#B16BA8,42
+194,Cycling PVL,#B16BA8,21
+195,Cycling T-cells,#B16BA8,31
+196,Cycling_Myeloid,#B16BA8,35
+197,DCs,#B16BA8,24
+198,Endothelial ACKR1,#B16BA8,59
+199,Endothelial CXCL12,#B16BA8,63
+200,Endothelial RGS5,#B16BA8,66
+201,Luminal Progenitors,#B16BA8,42
+202,Macrophage,#B16BA8,40
+203,Monocyte,#B16BA8,23
+204,NK cells,#B16BA8,10
+205,NKT cells,#B16BA8,16
+206,PVL Differentiated,#B16BA8,35
+207,PVL Immature,#B16BA8,25
+208,T cells CD4+,#B16BA8,13
+209,T cells CD8+,#B16BA8,13
+210,#B16BA8,#F39426,56
+211,#F39426,#F39426,29
+212,B cells Memory,#F39426,7
+213,CAFs MSC iCAF-like,#F39426,31
+214,CAFs myCAF-like,#F39426,42
+215,Cycling PVL,#F39426,20
+216,Cycling T-cells,#F39426,30
+217,Cycling_Myeloid,#F39426,34
+218,DCs,#F39426,25
+219,Endothelial ACKR1,#F39426,61
+220,Endothelial CXCL12,#F39426,61
+221,Endothelial RGS5,#F39426,69
+222,Luminal Progenitors,#F39426,39
+223,Macrophage,#F39426,39
+224,Monocyte,#F39426,24
+225,NK cells,#F39426,10
+226,NKT cells,#F39426,16
+227,PVL Differentiated,#F39426,37
+228,PVL Immature,#F39426,25
+229,T cells CD4+,#F39426,14
+230,T cells CD8+,#F39426,16
+231,#B16BA8,#F39426,48
+232,#F39426,#F39426,23
+233,B cells Memory,#F39426,6
+234,CAFs MSC iCAF-like,#F39426,35
+235,CAFs myCAF-like,#F39426,42
+236,Cycling PVL,#F39426,19
+237,Cycling T-cells,#F39426,30
+238,Cycling_Myeloid,#F39426,34
+239,DCs,#F39426,24
+240,Endothelial ACKR1,#F39426,59
+241,Endothelial CXCL12,#F39426,55
+242,Endothelial RGS5,#F39426,64
+243,Luminal Progenitors,#F39426,45
+244,Macrophage,#F39426,38
+245,Monocyte,#F39426,23
+246,NK cells,#F39426,8
+247,NKT cells,#F39426,17
+248,PVL Differentiated,#F39426,35
+249,PVL Immature,#F39426,23
+250,T cells CD4+,#F39426,13
+251,T cells CD8+,#F39426,14
+252,#B16BA8,#F39426,49
+253,#F39426,#F39426,22
+254,B cells Memory,#F39426,7
+255,CAFs MSC iCAF-like,#F39426,31
+256,CAFs myCAF-like,#F39426,39
+257,Cycling PVL,#F39426,15
+258,Cycling T-cells,#F39426,31
+259,Cycling_Myeloid,#F39426,33
+260,DCs,#F39426,24
+261,Endothelial ACKR1,#F39426,58
+262,Endothelial CXCL12,#F39426,58
+263,Endothelial RGS5,#F39426,65
+264,Luminal Progenitors,#F39426,36
+265,Macrophage,#F39426,37
+266,Monocyte,#F39426,23
+267,NK cells,#F39426,9
+268,NKT cells,#F39426,15
+269,PVL Differentiated,#F39426,34
+270,PVL Immature,#F39426,22
+271,T cells CD4+,#F39426,14
+272,T cells CD8+,#F39426,15
+273,#B16BA8,#F39426,52
+274,#F39426,#F39426,25
+275,B cells Memory,#F39426,7
+276,CAFs MSC iCAF-like,#F39426,43
+277,CAFs myCAF-like,#F39426,47
+278,Cycling PVL,#F39426,19
+279,Cycling T-cells,#F39426,33
+280,Cycling_Myeloid,#F39426,36
+281,DCs,#F39426,23
+282,Endothelial ACKR1,#F39426,60
+283,Endothelial CXCL12,#F39426,62
+284,Endothelial RGS5,#F39426,67
+285,Luminal Progenitors,#F39426,48
+286,Macrophage,#F39426,40
+287,Monocyte,#F39426,25
+288,NK cells,#F39426,11
+289,NKT cells,#F39426,16
+290,PVL Differentiated,#F39426,35
+291,PVL Immature,#F39426,25
+292,T cells CD4+,#F39426,15
+293,T cells CD8+,#F39426,15
+294,#B16BA8,#F39426,55
+295,#F39426,#F39426,29
+296,B cells Memory,#F39426,7
+297,CAFs MSC iCAF-like,#F39426,29
+298,CAFs myCAF-like,#F39426,34
+299,Cycling PVL,#F39426,19
+300,Cycling T-cells,#F39426,30
+301,Cycling_Myeloid,#F39426,31
+302,DCs,#F39426,23
+303,Endothelial ACKR1,#F39426,59
+304,Endothelial CXCL12,#F39426,54
+305,Endothelial RGS5,#F39426,64
+306,Luminal Progenitors,#F39426,38
+307,Macrophage,#F39426,36
+308,Monocyte,#F39426,22
+309,NK cells,#F39426,8
+310,NKT cells,#F39426,14
+311,PVL Differentiated,#F39426,31
+312,PVL Immature,#F39426,20
+313,T cells CD4+,#F39426,12
+314,T cells CD8+,#F39426,14
+315,#B16BA8,#F39426,49
+316,#F39426,#F39426,22
+317,B cells Memory,#F39426,6
+318,CAFs MSC iCAF-like,#F39426,34
+319,CAFs myCAF-like,#F39426,40
+320,Cycling PVL,#F39426,21
+321,Cycling T-cells,#F39426,30
+322,Cycling_Myeloid,#F39426,34
+323,DCs,#F39426,23
+324,Endothelial ACKR1,#F39426,58
+325,Endothelial CXCL12,#F39426,57
+326,Endothelial RGS5,#F39426,63
+327,Luminal Progenitors,#F39426,38
+328,Macrophage,#F39426,37
+329,Monocyte,#F39426,24
+330,NK cells,#F39426,8
+331,NKT cells,#F39426,16
+332,PVL Differentiated,#F39426,33
+333,PVL Immature,#F39426,22
+334,T cells CD4+,#F39426,12
+335,T cells CD8+,#F39426,14
+336,#B16BA8,#F39426,54
+337,#F39426,#F39426,28
+338,B cells Memory,#F39426,7
+339,CAFs MSC iCAF-like,#F39426,33
+340,CAFs myCAF-like,#F39426,46
+341,Cycling PVL,#F39426,22
+342,Cycling T-cells,#F39426,30
+343,Cycling_Myeloid,#F39426,33
+344,DCs,#F39426,23
+345,Endothelial ACKR1,#F39426,63
+346,Endothelial CXCL12,#F39426,61
+347,Endothelial RGS5,#F39426,67
+348,Luminal Progenitors,#F39426,38
+349,Macrophage,#F39426,37
+350,Monocyte,#F39426,25
+351,NK cells,#F39426,9
+352,NKT cells,#F39426,16
+353,PVL Differentiated,#F39426,37
+354,PVL Immature,#F39426,24
+355,T cells CD4+,#F39426,14
+356,T cells CD8+,#F39426,15
+357,#B16BA8,#F39426,55
+358,#F39426,#F39426,29
+359,B cells Memory,#F39426,8
+360,CAFs MSC iCAF-like,#F39426,31
+361,CAFs myCAF-like,#F39426,38
+362,Cycling PVL,#F39426,17
+363,Cycling T-cells,#F39426,30
+364,Cycling_Myeloid,#F39426,33
+365,DCs,#F39426,24
+366,Endothelial ACKR1,#F39426,59
+367,Endothelial CXCL12,#F39426,58
+368,Endothelial RGS5,#F39426,66
+369,Luminal Progenitors,#F39426,40
+370,Macrophage,#F39426,43
+371,Monocyte,#F39426,25
+372,NK cells,#F39426,11
+373,NKT cells,#F39426,17
+374,PVL Differentiated,#F39426,34
+375,PVL Immature,#F39426,22
+376,T cells CD4+,#F39426,14
+377,T cells CD8+,#F39426,15
+378,#B16BA8,#F39426,53
+379,#F39426,#F39426,27
+380,B cells Memory,#F39426,8
+381,CAFs MSC iCAF-like,#F39426,40
+382,CAFs myCAF-like,#F39426,47
+383,Cycling PVL,#F39426,20
+384,Cycling T-cells,#F39426,34
+385,Cycling_Myeloid,#F39426,35
+386,DCs,#F39426,26
+387,Endothelial ACKR1,#F39426,65
+388,Endothelial CXCL12,#F39426,64
+389,Endothelial RGS5,#F39426,69
+390,Luminal Progenitors,#F39426,49
+391,Macrophage,#F39426,43
+392,Monocyte,#F39426,25
+393,NK cells,#F39426,11
+394,NKT cells,#F39426,17
+395,PVL Differentiated,#F39426,37
+396,PVL Immature,#F39426,27
+397,T cells CD4+,#F39426,15
+398,T cells CD8+,#F39426,17
+399,#B16BA8,#F39426,51
+400,#F39426,#F39426,24
+401,B cells Memory,#F39426,8
+402,CAFs MSC iCAF-like,#F39426,33
+403,CAFs myCAF-like,#F39426,39
+404,Cycling PVL,#F39426,18
+405,Cycling T-cells,#F39426,33
+406,Cycling_Myeloid,#F39426,35
+407,DCs,#F39426,24
+408,Endothelial ACKR1,#F39426,58
+409,Endothelial CXCL12,#F39426,57
+410,Endothelial RGS5,#F39426,62
+411,Luminal Progenitors,#F39426,36
+412,Macrophage,#F39426,42
+413,Monocyte,#F39426,23
+414,NK cells,#F39426,8
+415,NKT cells,#F39426,16
+416,PVL Differentiated,#F39426,33
+417,PVL Immature,#F39426,22
+418,T cells CD4+,#F39426,14
+419,T cells CD8+,#F39426,14
